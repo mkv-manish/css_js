@@ -1,0 +1,27 @@
+body {
+    font-size: 20px;
+    background-color: #212121;
+    color: white;
+}
+#first {
+    color: white;
+    background-color: rgb(221, 67, 67);
+    font-family: cursive;
+}
+.purple {
+    color: rgb(238, 48, 238);
+    background-color: white;
+    font-family: fantasy;
+}
+#third {
+    color: white;
+    background-color: green;
+    font-family: fantasy;
+}
+.highlight {
+    color: yellow;
+}
+p:hover {
+    font-family: Courier;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+body {
+    background-color: #212121;
+}
+h2 {
+    color: green;
+    background-color: rgb(89, 89, 89);
+}
+p {
+    font-family: Courier;
+    background-color: yellow;
+}

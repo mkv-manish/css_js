@@ -1,0 +1,30 @@
+* {
+    border: 2px solid black;
+    margin: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+}
+a {
+    width: 400px;
+    display: inline-block;
+}
+ul {
+    list-style: none;
+    text-align: end;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+li {
+    display: inline;
+    padding: 20px;
+}
+
+p {
+    color: aquamarine;
+    display: inline-block;
+    width: 300px;
+}
+li:hover {
+    color: violet;
+}
